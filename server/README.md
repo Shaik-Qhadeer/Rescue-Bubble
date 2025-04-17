@@ -1,4 +1,4 @@
-# sih-backend
+# ResQbubble-backend
 
 
 use npm install command to install all the dependencies.
